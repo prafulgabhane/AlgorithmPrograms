@@ -13,6 +13,7 @@ namespace AlgorithmPrograms
             Console.WriteLine("Welcome Algorithm Program");
             
             StringPremutations.ListPeople();
+            
             Console.ReadLine();
 
         }
